@@ -10,7 +10,7 @@ Automação em PyQt5 para coletar moedas na página de recompensas do AliExpress
 ## 🛠️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/aliexpress-coin-collector.git
+git clone https://github.com/CassGabriel/AliCoinGabriel.git
 cd aliexpress-coin-collector
 pip install -r requirements.txt
 ```
